@@ -1,25 +1,33 @@
-# Historico-Estuto
+# 📚 Historico #
 
-<p align="center">
-    <img  src="slider_quem_somos.jpg" title="Logo do curso"  width="680"><br />
-    <img src="https://img.shields.io/maintenance/yes/2020?style=for-the-badge" title="Status do projeto">
-    <img src="https://img.shields.io/travis/ccuffs/template?style=for-the-badge" title="Status do build">
-</p>
+![logo](arquivos/logo.png)
 
+Bem vindo 😎
 
-Bem vindo  😎
+É do curso de Ciência da Computação da UFFS ? Calouro talvez ?
 
+Existem grupos onde você pode se informar:
 
+- [Facebook](https://www.facebook.com/groups/CACCUFFSCCO/): <https://www.facebook.com/groups/CACCUFFSCCO/>
+- [Telegram](https://t.me/ccuffs): <https://t.me/ccuffs>
+- [Whatsapp](https://chat.whatsapp.com/CPQrLeFht2XBiFfT9IBoci): <https://chat.whatsapp.com/CPQrLeFht2XBiFfT9IBoci>
 
-É do curso de Ciência da Computação da UFFS ? Calouro talvez?
+## 📑 Sumário ##
 
-Temos dos grupos:
+- [📚 Historico](#-historico)
+  - [📑 Sumário](#-sumário)
+  - [👥 Gestões passadas](#-gestões-passadas)
+  - [📜 Estatuto](#-estatuto)
+  - [📐 Modelos de Moletons](#-modelos-de-moletons)
 
---> Facebook: https://www.facebook.com/groups/CACCUFFSCCO/                                                                           
---> telegram: https://t.me/ccuffs  
---> wpp: https://chat.whatsapp.com/CPQrLeFht2XBiFfT9IBoci
-     
-     
+## 👥 Gestões passadas ##
 
-Quer se enturmar na aréa de programação, e até mesmo tirar suas duvidas, tem um grupo no 
-facebook. Segue em anexo o link --> https://www.facebook.com/groups/python.brasil/
+- [👥 Histórico de chapas](HISTORICO-CHAPAS.md)
+
+## 📜 Estatuto ##
+
+- [📜 Estatuto](arquivos/estatuto.pdf)
+
+## 📐 Modelos de Moletons ##
+
+- [📐 Modelos de Moletons](arquivos/Moletom/)
