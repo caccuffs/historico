@@ -1,6 +1,6 @@
 # 📚 Historico #
 
-![logo](arquivos/logo.png)
+![logo](arquivos/logo-200.png)
 
 Bem vindo 😎
 
