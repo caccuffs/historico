@@ -14,12 +14,12 @@ Histórico de membros que compuseram a diretoria do CACC-UFFS.
 
 ## 📣 Gestão de 2021 ##
 
-- 🟢[Amanda Groth](https://github.com/) - **Presidente**
+- 🟢[Amanda Groth](https://github.com/amanditagroth) - **Presidente**
 - 🟢[Jozias Martini](https://github.com/joziasmartini) - **Vice-Presidente**
 - 🟢[Ntidandara Gomes](https://github.com/) - **Tesoureira Geral**
-- 🟢[Bruna Disner](https://github.com/) - **Secretária Geral**
+- 🟢[Bruna Disner](https://github.com/Brunadisner) - **Secretária Geral**
 - 🟢[Mayara Ogliari](https://github.com/) - **Secretária de Relações Públicas**
-- 🟢[Dener Rohr](https://github.com/) - **Suplente Geral**
+- 🟢[Dener Rohr](https://github.com/denerohr) - **Suplente Geral**
 
 ## 📣 Gestão de 2020 ##
 
