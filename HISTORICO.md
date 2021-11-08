@@ -50,8 +50,6 @@ Histórico de membros que compuseram a diretoria do CACC-UFFS.
 - ⚪[Andrew Malta](https://github.com/andrewmsilva) - **Secretário Geral**
 - ⚪[Raquel Hengen](https://github.com/raquelh) - **Secretária de Relações Públicas**
 - ⚪[Patrick Dal Ponte]() - **Suplente Geral**
-
-Demais suplentes:
 - ⚪[Emili Willinghoefer]() - **Suplente**
 - ⚪[Pablo Lodi](https://github.com/PabloLodi) - **Suplente**
 
