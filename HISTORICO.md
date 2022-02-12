@@ -10,6 +10,7 @@ Histórico de membros que compuseram a diretoria do CACC-UFFS.
   - [📣 Gestão de 2020](#-gestão-de-2020)
   - [📣 Gestão de 2019](#-gestão-de-2019)
   - [📣 Gestão de 2018](#-gestão-de-2018)
+  - [📣 Gestão de 2017](#-gestão-de-2017)
   - [💬 Legenda](#-legenda)
 
 ## 📣 Gestão de 2021 ##
@@ -35,23 +36,33 @@ Histórico de membros que compuseram a diretoria do CACC-UFFS.
 
 ## 📣 Gestão de 2019 ##
 
-- ⚪[Rafaelle Arruda](https://github.com/mazarafa) - **Presidente**
-- ⚪[Nicole Ribas](https://github.com/) - **Vice-Presidente**
-- ⚪[Álisson Xavier](https://github.com/allykaplan) - **Tesoureira Geral**
-- ⚪[Anny Cruz](https://github.com/annnyc) - **Secretário Geral**
-- ⚪[Mateus Koppe](https://github.com/mateusKoppe) - **Secretária de Relações Públicas**
-- ⚪[Sabrina Moczulski](https://github.com/SabrinaMoczk) - **Suplente Geral**
+- 🟢[Rafaelle Arruda](https://github.com/rafalup) - **Presidente**
+- 🟢[Nicole Ribas](https://github.com/) - **Vice-Presidente**
+- 🟢[Álisson Xavier](https://github.com/allykaplan) - **Tesoureira Geral**
+- 🟢[Anny Cruz](https://github.com/annnyc) - **Secretário Geral**
+- 🟢[Mateus Koppe](https://github.com/mateusKoppe) - **Secretária de Relações Públicas**
+- 🟢[Sabrina Moczulski](https://github.com/SabrinaMoczk) - **Suplente Geral**
 
 ## 📣 Gestão de 2018 ##
 
-- ⚪[Naomi Fernanda de Mello](https://github.com/mellonaomi) - **Presidente**
-- ⚪[Raphael Borges](https://github.com/oraphaBorges) - **Vice-Presidente**
-- ⚪[Sabrina Moczulski](https://github.com/SabrinaMoczk) - **Tesoureira Geral**
-- ⚪[Andrew Malta](https://github.com/andrewmsilva) - **Secretário Geral**
-- ⚪[Raquel Hengen](https://github.com/raquelh) - **Secretária de Relações Públicas**
-- ⚪[Patrick Dal Ponte]() - **Suplente Geral**
-- ⚪[Emili Willinghoefer]() - **Suplente**
-- ⚪[Pablo Lodi](https://github.com/PabloLodi) - **Suplente**
+- 🟢[Naomi Fernanda de Mello](https://github.com/mellonaomi) - **Presidente**
+- 🟢[Raphael Borges](https://github.com/oraphaBorges) - **Vice-Presidente**
+- 🟢[Sabrina Moczulski](https://github.com/SabrinaMoczk) - **Tesoureira Geral**
+- 🟢[Andrew Malta](https://github.com/andrewmsilva) - **Secretário Geral**
+- 🟢[Raquel Hengen](https://github.com/raquelh) - **Secretária de Relações Públicas**
+- 🟢[Patrick Dal Ponte]() - **Suplente Geral**
+- 🟢[Emili Willinghoefer]() - **Suplente**
+- 🟢[Pablo Lodi](https://github.com/PabloLodi) - **Suplente**
+
+## 📣 Gestão de 2017 ##
+- 🟢[Eduardo Stefanello](https://github.com/dudustefanello) - **Presidente**
+- 🟢[Juliana Rosin](https://github.com/julianaRosin) - **Vice-Presidente**
+- 🟢[Sabrina Moczulski](https://github.com/SabrinaMoczk) - **Tesoureira Geral**
+- 🟢[Luan Félix Pimentel](https://github.com/luanpimentel) - **Secretário Geral**
+- 🟢[Rute](https://github.com) - **Secretária de Relações Públicas**
+- 🟢[Fernanda Bonetti](https://github.com/fernandabonetti) - **Suplente Geral**
+- 🟢[Anthony Nadaletti](https://github.com/SrAnthony) - **Suplente**
+- 🟢[Guilherme Konopatzki](https://github.com) - **Suplente**
 
 ## 💬 Legenda ##
 
